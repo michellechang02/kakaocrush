@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kakaocrush/static/css/main.2f645fb4.css",
+    "main.js": "/kakaocrush/static/js/main.de325fd5.js",
+    "static/js/787.b69e386e.chunk.js": "/kakaocrush/static/js/787.b69e386e.chunk.js",
+    "static/media/purpleCandy.png": "/kakaocrush/static/media/purpleCandy.a1f9b08fc6e209a0d6a9.png",
+    "static/media/redCandy.png": "/kakaocrush/static/media/redCandy.0fd3a276ff3434777144.png",
+    "static/media/yellowCandy.png": "/kakaocrush/static/media/yellowCandy.d45355c6d62884a124d4.png",
+    "static/media/BlueCandy.png": "/kakaocrush/static/media/BlueCandy.6abfe44a96c88eb7165b.png",
+    "static/media/blank.png": "/kakaocrush/static/media/blank.a2402a5966938569acc5.png",
+    "static/media/GreenCandy.png": "/kakaocrush/static/media/GreenCandy.25a5eeb59dbdbf1c1048.png",
+    "static/media/orangeCandy.png": "/kakaocrush/static/media/orangeCandy.81e796e7a13db2050cd2.png",
+    "index.html": "/kakaocrush/index.html",
+    "main.2f645fb4.css.map": "/kakaocrush/static/css/main.2f645fb4.css.map",
+    "main.de325fd5.js.map": "/kakaocrush/static/js/main.de325fd5.js.map",
+    "787.b69e386e.chunk.js.map": "/kakaocrush/static/js/787.b69e386e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f645fb4.css",
+    "static/js/main.de325fd5.js"
+  ]
+}
